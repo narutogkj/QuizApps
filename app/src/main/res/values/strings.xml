@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_n_printing_ing_industry_lorem_ipsum_has">Lorem Ipsum is simply dummy text of the \n printing ing industry. Lorem Ipsum has</string>
+    <string name="welcome_to_quiz_master">Welcome To Quiz Master</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please Login to continue using app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account ? signup</string>
+
+</resources>
